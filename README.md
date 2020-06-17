@@ -1,5 +1,7 @@
 This repository contains the simulation code for the paper
 > Bailey Flanigan, Paul Gölz, Anupam Gupta, and Ariel D. Procaccia: Neutralizing Self-Selection Bias in Sampling for Sortition. 2020.
+
+Code written by [Bailey Flanigan](http://baileyflanigan.com) and [Paul Gölz](https://paulgoelz.de).
 The paper is freely available at https://paulgoelz.de/papers/endtoend.pdf
 
 Content
