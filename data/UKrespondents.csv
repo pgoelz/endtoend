@@ -1,0 +1,13 @@
+nationbuilder_id,primary_address1,zip_edited,gender,climate_concern_level,age_bucket,geo_bucket,urban_rural,ethnicity_bucket,edu_bucket,first_name,last_name,email,mobile_number,primary_address2,primary_city,primary_zip,age
+1,1,1,Male,Very concerned,16-29,North East,Urban,White,No Qualifications/Level 1,fn1,ln1,mail1,1,pa2_1,city1,1,1
+2,2,2,Female,Fairly concerned,30-44,North West,Rural,BAME,Level 2/Level 3/Apprenticeship/Other,fn2,ln2,mail2,2,pa2_2,city2,1,2
+3,3,3,Male,Not very concerned,45-59,Yorkshire and The Humber,Urban,White,Level 4 and above,fn3,ln3,mail3,3,pa2_3,city3,1,3
+4,4,4,Female,Not at all concerned,60+,East Midlands,Rural,BAME,No Qualifications/Level 1,fn4,ln4,mail4,4,pa2_4,city4,1,4
+5,5,5,Male,Very concerned,16-29,West Midlands,Urban,White,No Qualifications/Level 1,fn5,ln5,mail5,5,pa2_5,city5,1,5
+6,6,6,Female,Fairly concerned,30-44,East of England,Rural,BAME,Level 2/Level 3/Apprenticeship/Other,fn6,ln6,mail6,6,pa2_6,city6,1,6
+7,7,7,Male,Not very concerned,45-59,London,Urban,White,Level 4 and above,fn7,ln7,mail7,7,pa2_7,city7,1,7
+8,8,8,Female,Not at all concerned,60+,South East,Rural,BAME,No Qualifications/Level 1,fn8,ln8,mail8,8,pa2_8,city8,1,8
+9,9,9,Male,Very concerned,16-29,South West,Urban,White,No Qualifications/Level 1,fn9,ln9,mail9,9,pa2_9,city9,1,9
+10,10,10,Female,Fairly concerned,30-44,Wales,Rural,BAME,Level 2/Level 3/Apprenticeship/Other,fn10,ln10,mail10,10,pa2_10,city10,1,10
+11,11,11,Male,Not very concerned,45-59,Scotland,Urban,White,Level 4 and above,fn11,ln11,mail11,11,pa2_11,city11,1,11
+12,12,12,Female,Not at all concerned,60+,Northern Ireland,Rural,BAME,No Qualifications/Level 1,fn12,ln12,mail12,12,pa2_12,city12,1,12
